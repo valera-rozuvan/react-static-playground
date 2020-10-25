@@ -4,18 +4,18 @@
     "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.69861588.js (247 KiB)"
   ],
   "version": "4.44.2",
-  "hash": "b07d5d32b1c61fb7c878",
-  "time": 12280,
-  "builtAt": 1603659403849,
+  "hash": "851713f2447ec05a9a47",
+  "time": 12625,
+  "builtAt": 1603660542802,
   "publicPath": "/",
   "outputPath": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/dist",
   "assetsByChunkName": {
     "__react_static_root__/src/containers/Post": "templates/__react_static_root__/src/containers/Post.37b96208.js",
     "__react_static_root__/src/pages/404": "templates/__react_static_root__/src/pages/404.cdb74137.js",
-    "__react_static_root__/src/pages/about": "templates/__react_static_root__/src/pages/about.ec092461.js",
+    "__react_static_root__/src/pages/about": "templates/__react_static_root__/src/pages/about.472ecca0.js",
     "__react_static_root__/src/pages/blog": "templates/__react_static_root__/src/pages/blog.ab369632.js",
     "__react_static_root__/src/pages/index": "templates/__react_static_root__/src/pages/index.27ed5356.js",
-    "main": "main.34166e20.js",
+    "main": "main.96c8dc4b.js",
     "styles": [
       "styles.82b2ee7c.css",
       "templates/styles.ddeb0f74.js"
@@ -24,7 +24,7 @@
   },
   "assets": [
     {
-      "name": "main.34166e20.js",
+      "name": "main.96c8dc4b.js",
       "size": 7361,
       "chunks": [
         5
@@ -80,8 +80,8 @@
       "emitted": true
     },
     {
-      "name": "templates/__react_static_root__/src/pages/about.ec092461.js",
-      "size": 272,
+      "name": "templates/__react_static_root__/src/pages/about.472ecca0.js",
+      "size": 286,
       "chunks": [
         2
       ],
@@ -163,7 +163,7 @@
         "styles.82b2ee7c.css",
         "templates/styles.ddeb0f74.js",
         "templates/vendors~main.69861588.js",
-        "main.34166e20.js"
+        "main.96c8dc4b.js"
       ],
       "children": {},
       "childAssets": {}
@@ -180,7 +180,7 @@
         "styles.82b2ee7c.css",
         "templates/styles.ddeb0f74.js",
         "templates/vendors~main.69861588.js",
-        "main.34166e20.js"
+        "main.96c8dc4b.js"
       ],
       "children": {},
       "childAssets": {}
@@ -200,7 +200,7 @@
         2
       ],
       "assets": [
-        "templates/__react_static_root__/src/pages/about.ec092461.js"
+        "templates/__react_static_root__/src/pages/about.472ecca0.js"
       ],
       "children": {},
       "childAssets": {}
@@ -450,14 +450,14 @@
       "rendered": true,
       "initial": false,
       "entry": false,
-      "size": 213,
+      "size": 227,
       "names": [
         "__react_static_root__/src/pages/about"
       ],
       "files": [
-        "templates/__react_static_root__/src/pages/about.ec092461.js"
+        "templates/__react_static_root__/src/pages/about.472ecca0.js"
       ],
-      "hash": "256a6e7005af2c0249b4",
+      "hash": "eb12dd9e1bcee657664c",
       "siblings": [],
       "parents": [
         5,
@@ -473,7 +473,7 @@
           "name": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/src/pages/about.js",
           "index": 133,
           "index2": 133,
-          "size": 213,
+          "size": 227,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -533,7 +533,7 @@
             "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/artifacts/react-static-templates.js (referenced with import(), require.resolve)"
           ],
           "depth": 3,
-          "source": "import React from'react';export default(function(){return/*#__PURE__*/React.createElement(\"div\",null,/*#__PURE__*/React.createElement(\"p\",null,\"React Static is a progressive static site generator for React.\"));});"
+          "source": "import React from'react';export default(function(){return/*#__PURE__*/React.createElement(\"div\",null,/*#__PURE__*/React.createElement(\"p\",null,\"React Static is a progressive static site generator for React. Hello, world!\"));});"
         }
       ],
       "filteredModules": 0,
@@ -767,9 +767,9 @@
         "main"
       ],
       "files": [
-        "main.34166e20.js"
+        "main.96c8dc4b.js"
       ],
-      "hash": "e21db7e3ef2fdab3b7e1",
+      "hash": "2ee775e5383c89a8e318",
       "siblings": [
         6,
         7
@@ -3102,9 +3102,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -3676,9 +3676,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "issuerId": 112,
-          "issuerName": "../lib/bootstrapTemplates.js",
+          "issuer": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "issuerId": 56,
+          "issuerName": "../lib/bootstrapPlugins.js",
           "issuerPath": [
             {
               "id": 55,
@@ -3686,9 +3686,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             }
           ],
           "failed": false,
@@ -3801,9 +3801,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -3912,9 +3912,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -4463,9 +4463,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6003,9 +6003,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6074,9 +6074,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6150,9 +6150,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6216,9 +6216,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6287,9 +6287,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6353,9 +6353,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6419,9 +6419,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6495,9 +6495,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6576,9 +6576,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6652,9 +6652,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6799,9 +6799,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6880,9 +6880,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6966,9 +6966,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -7042,9 +7042,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -7118,9 +7118,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -8866,9 +8866,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -8928,9 +8928,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -8990,9 +8990,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9052,9 +9052,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9109,9 +9109,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9171,9 +9171,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9233,9 +9233,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9295,9 +9295,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9357,9 +9357,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9424,9 +9424,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9496,9 +9496,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9568,9 +9568,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9645,9 +9645,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9717,9 +9717,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9794,9 +9794,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9876,9 +9876,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9953,9 +9953,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10035,9 +10035,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10117,9 +10117,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10194,9 +10194,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10271,9 +10271,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10348,9 +10348,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10415,9 +10415,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10482,9 +10482,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10544,9 +10544,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10609,9 +10609,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -13864,9 +13864,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -14438,9 +14438,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-      "issuerId": 112,
-      "issuerName": "../lib/bootstrapTemplates.js",
+      "issuer": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+      "issuerId": 56,
+      "issuerName": "../lib/bootstrapPlugins.js",
       "issuerPath": [
         {
           "id": 55,
@@ -14448,9 +14448,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         }
       ],
       "failed": false,
@@ -14563,9 +14563,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -14674,9 +14674,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -15372,9 +15372,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17143,9 +17143,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17214,9 +17214,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17290,9 +17290,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17356,9 +17356,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17427,9 +17427,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17493,9 +17493,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17559,9 +17559,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17635,9 +17635,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17716,9 +17716,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17792,9 +17792,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17939,9 +17939,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18020,9 +18020,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18106,9 +18106,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18182,9 +18182,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18258,9 +18258,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18872,7 +18872,7 @@
       "name": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/src/pages/about.js",
       "index": 133,
       "index2": 133,
-      "size": 213,
+      "size": 227,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -18932,7 +18932,7 @@
         "ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: /home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/artifacts/react-static-templates.js (referenced with import(), require.resolve)"
       ],
       "depth": 3,
-      "source": "import React from'react';export default(function(){return/*#__PURE__*/React.createElement(\"div\",null,/*#__PURE__*/React.createElement(\"p\",null,\"React Static is a progressive static site generator for React.\"));});"
+      "source": "import React from'react';export default(function(){return/*#__PURE__*/React.createElement(\"div\",null,/*#__PURE__*/React.createElement(\"p\",null,\"React Static is a progressive static site generator for React. Hello, world!\"));});"
     },
     {
       "id": 52,
@@ -20437,9 +20437,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20499,9 +20499,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20561,9 +20561,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20623,9 +20623,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20680,9 +20680,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20742,9 +20742,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20804,9 +20804,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20866,9 +20866,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20928,9 +20928,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20995,9 +20995,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21067,9 +21067,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21139,9 +21139,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21216,9 +21216,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21288,9 +21288,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21365,9 +21365,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21447,9 +21447,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21524,9 +21524,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21606,9 +21606,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21688,9 +21688,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21765,9 +21765,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21842,9 +21842,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21919,9 +21919,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21986,9 +21986,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22053,9 +22053,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22115,9 +22115,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22180,9 +22180,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-hot-loader/webpack.js!/home/valera/dev/github.com/valera-rozuvan/react-static-playground/static-site/node_modules/react-static/lib/bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
